@@ -30,5 +30,4 @@ def main() -> None:
 
 
 if __name__ == '__main__':
-    # main()
-    print(list(range(10000)))
+    main()
