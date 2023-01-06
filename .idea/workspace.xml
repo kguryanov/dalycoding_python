@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2460d780-dbe6-4a48-b66e-e868e0915484" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/problem00002/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem00002/impl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem00002/impl/multiples_but_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem00002/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem00002/tests/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem0001_twosum/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem00001/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem0001_twosum/impl/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem00001/impl/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem0001_twosum/impl/twosum.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem00001/impl/twosum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem0001_twosum/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem00001/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem0001_twosum/test/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem00001/tests/tests_2sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Unit Test" />
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -59,7 +59,7 @@
       <recent name="C:\mine\git\dailycoding\problem\tests" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.multiples_but_one">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="dailycoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +74,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiples_but_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dailycoding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem00002/impl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem00002/impl/multiples_but_one.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,6 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multiples_but_one" />
         <item itemvalue="Python tests.Python tests in tests_2sum.py" />
       </list>
     </recent_temporary>
@@ -115,7 +135,7 @@
       <workItem from="1672760067482" duration="4345000" />
       <workItem from="1672983817999" duration="2119000" />
       <workItem from="1672985982744" duration="1259000" />
-      <workItem from="1672987274079" duration="145000" />
+      <workItem from="1672987274079" duration="4669000" />
     </task>
     <servers />
   </component>
@@ -124,6 +144,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dailycoding$suminarray.coverage" NAME="suminarray Coverage Results" MODIFIED="1672761880084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem0001/impl" />
-    <SUITE FILE_PATH="coverage/dailycoding$.coverage" NAME=" Coverage Results" MODIFIED="1672987387297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem00001/tests" />
+    <SUITE FILE_PATH="coverage/dailycoding$.coverage" NAME=" Coverage Results" MODIFIED="1672987425830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem00001/tests" />
   </component>
 </project>
