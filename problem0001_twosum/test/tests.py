@@ -3,7 +3,7 @@ import time
 import unittest
 from statistics import mean
 
-from problem0001.impl.suminarray import check_if_sum_exists
+from problem0001_twosum.impl.twosum import check_if_sum_exists
 
 
 class MyTestCase(unittest.TestCase):
