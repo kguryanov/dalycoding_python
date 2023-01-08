@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2460d780-dbe6-4a48-b66e-e868e0915484" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/problem00003/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem00003/impl/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem00003/impl/deserializable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem00003/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem00003/tests/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem00004/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem00004/impl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem00004/impl/lowest_missing_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem00004/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem00004/tests/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
       <recent name="C:\mine\git\dailycoding\problem\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.deserializable">
+  <component name="RunManager" selected="Python tests.Python tests in tests.py">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="dailycoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,6 +93,9 @@
       <module name="dailycoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\kgury\.virtualenvs\dailycoding-P5cG2OkS\Scripts\python.exe" />
       <option name="SDK_NAME" value="Pipenv (dailycoding)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem00003/impl" />
@@ -113,6 +116,9 @@
       <module name="dailycoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem00002/impl" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -128,12 +134,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in tests.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="dailycoding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem00004/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/problem00004/tests/tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.deserializable" />
       <item itemvalue="Python.multiples_but_one" />
+      <item itemvalue="Python tests.Python tests in tests.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in tests.py" />
         <item itemvalue="Python.deserializable" />
         <item itemvalue="Python.multiples_but_one" />
       </list>
@@ -151,7 +174,9 @@
       <workItem from="1672760067482" duration="4345000" />
       <workItem from="1672983817999" duration="2119000" />
       <workItem from="1672985982744" duration="1259000" />
-      <workItem from="1672987274079" duration="10776000" />
+      <workItem from="1672987274079" duration="12309000" />
+      <workItem from="1673084926818" duration="48000" />
+      <workItem from="1673195719840" duration="6957000" />
     </task>
     <servers />
   </component>
@@ -178,6 +203,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dailycoding$deserializable.coverage" NAME="deserializable Coverage Results" MODIFIED="1672998401317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem00003/impl" />
     <SUITE FILE_PATH="coverage/dailycoding$suminarray.coverage" NAME="suminarray Coverage Results" MODIFIED="1672761880084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem0001/impl" />
-    <SUITE FILE_PATH="coverage/dailycoding$.coverage" NAME=" Coverage Results" MODIFIED="1672992067127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem00002/tests" />
+    <SUITE FILE_PATH="coverage/dailycoding$.coverage" NAME=" Coverage Results" MODIFIED="1673206529972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problem00004/tests" />
   </component>
 </project>
