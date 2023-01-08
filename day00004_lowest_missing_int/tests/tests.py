@@ -4,7 +4,7 @@ import unittest
 from statistics import mean
 from typing import Callable
 
-from problem00004.impl.lowest_missing_int import lowest_int_sorted, lowest_int_set, lowest_int_sort_positives
+from day00004_lowest_missing_int.impl.lowest_missing_int import lowest_int_sorted, lowest_int_set, lowest_int_sort_positives
 
 
 class MyTestCase(unittest.TestCase):

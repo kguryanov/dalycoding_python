@@ -3,7 +3,7 @@ import time
 import unittest
 from statistics import mean
 
-from problem00001.impl.twosum import check_if_sum_exists
+from day00001_2sum.impl.twosum import check_if_sum_exists
 
 
 class MyTestCase(unittest.TestCase):

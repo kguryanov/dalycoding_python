@@ -1,6 +1,6 @@
 import unittest
 
-from problem00005.impl.closures import car, cons, cdr
+from day00005_closures.impl.closures import car, cons, cdr
 
 
 class MyTestCase(unittest.TestCase):

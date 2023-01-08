@@ -1,6 +1,6 @@
 import unittest
 
-from problem00002.impl.multiples_but_one import with_division, no_division
+from day00002_pruduct_but_one.impl.multiples_but_one import with_division, no_division
 
 
 class MyTestCase(unittest.TestCase):
