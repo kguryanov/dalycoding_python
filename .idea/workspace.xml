@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2460d780-dbe6-4a48-b66e-e868e0915484" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/problem00004/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem00004/impl/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem00004/impl/lowest_missing_int.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem00004/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem00004/tests/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ploblem00005/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ploblem00005/impl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ploblem00005/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ploblem00005/tests/tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +174,7 @@
       <workItem from="1672985982744" duration="1259000" />
       <workItem from="1672987274079" duration="12309000" />
       <workItem from="1673084926818" duration="48000" />
-      <workItem from="1673195719840" duration="6957000" />
+      <workItem from="1673195719840" duration="7560000" />
     </task>
     <servers />
   </component>
